@@ -1,0 +1,360 @@
+CRITICAL - 2025-06-12 11:20:10 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 81.
+ 1 APPPATH\Models\BriefingModel.php(81): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(138): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:20:20 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 81.
+ 1 APPPATH\Models\BriefingModel.php(81): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(138): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:23:07 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 81.
+ 1 APPPATH\Models\BriefingModel.php(81): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(138): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:23:14 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 81.
+ 1 APPPATH\Models\BriefingModel.php(81): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(138): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:23:18 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 81.
+ 1 APPPATH\Models\BriefingModel.php(81): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(138): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:23:30 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 81.
+ 1 APPPATH\Models\BriefingModel.php(81): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(138): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:35:31 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:35:55 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:34 --> Exception: Failed to parse time string (2025-06-29T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-06-29T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-06-29T00:00:00 07:00', '2025-08-10T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:35 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:35 --> Exception: Failed to parse time string (2025-04-27T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-04-27T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-04-27T00:00:00 07:00', '2025-06-08T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:36 --> Exception: Failed to parse time string (2025-03-30T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-03-30T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-03-30T00:00:00 07:00', '2025-05-11T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:36 --> Exception: Failed to parse time string (2025-02-23T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-02-23T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-02-23T00:00:00 07:00', '2025-04-06T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:37 --> Exception: Failed to parse time string (2025-03-30T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-03-30T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-03-30T00:00:00 07:00', '2025-05-11T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:37 --> Exception: Failed to parse time string (2025-04-27T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-04-27T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-04-27T00:00:00 07:00', '2025-06-08T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:38 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:38 --> Exception: Failed to parse time string (2025-06-29T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-06-29T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-06-29T00:00:00 07:00', '2025-08-10T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:38 --> Exception: Failed to parse time string (2025-07-27T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-07-27T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-07-27T00:00:00 07:00', '2025-09-07T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:38 --> Exception: Failed to parse time string (2025-08-31T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-08-31T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-08-31T00:00:00 07:00', '2025-10-12T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:38 --> Exception: Failed to parse time string (2025-09-28T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-09-28T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-09-28T00:00:00 07:00', '2025-11-09T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:39 --> Exception: Failed to parse time string (2025-10-26T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-10-26T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-10-26T00:00:00 07:00', '2025-12-07T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:39 --> Exception: Failed to parse time string (2025-11-30T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-11-30T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-11-30T00:00:00 07:00', '2026-01-11T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:39 --> Exception: Failed to parse time string (2025-12-28T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-12-28T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2025-12-28T00:00:00 07:00', '2026-02-08T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:39 --> Exception: Failed to parse time string (2026-02-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2026-02-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2026-02-01T00:00:00 07:00', '2026-03-15T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:39 --> Exception: Failed to parse time string (2026-03-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2026-03-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2026-03-01T00:00:00 07:00', '2026-04-12T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:39 --> Exception: Failed to parse time string (2026-03-29T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2026-03-29T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2026-03-29T00:00:00 07:00', '2026-05-10T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:36:40 --> Exception: Failed to parse time string (2026-04-26T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2026-04-26T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(139): App\Models\BriefingModel->generateSchedule('2026-04-26T00:00:00 07:00', '2026-06-07T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:37:36 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(138): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:37:51 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(138): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-12 11:38:14 --> Exception: Failed to parse time string (2025-06-01T00:00:00 07:00) at position 20 (0): Double time specification
+[Method: GET, Route: briefing/events]
+in APPPATH\Models\BriefingModel.php on line 78.
+ 1 APPPATH\Models\BriefingModel.php(78): DateTime->__construct('2025-06-01T00:00:00 07:00')
+ 2 APPPATH\Controllers\BriefingController.php(138): App\Models\BriefingModel->generateSchedule('2025-06-01T00:00:00 07:00', '2025-07-13T00:00:00 07:00')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\BriefingController->getEvents()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BriefingController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')

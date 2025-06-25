@@ -1,0 +1,28 @@
+CRITICAL - 2025-06-24 04:15:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "jcp_leadtime/index.php"
+[Method: GET, Route: jcp-master-leadtime]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('jcp_leadtime/index.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('jcp_leadtime/index', [], true)
+ 3 APPPATH\Controllers\JcpLeadtime.php(13): view('jcp_leadtime/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\JcpLeadtime->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JcpLeadtime))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
+CRITICAL - 2025-06-24 14:08:43 --> ErrorException: Undefined array key "mm_category"
+[Method: GET, Route: ccf/edit/44]
+in APPPATH\Views\ccf\edit.php on line 354.
+ 1 APPPATH\Views\ccf\edit.php(354): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mm_category"', 'D:\\Work\\pps\\daily_report2\\app\\Views\\ccf\\edit.php', 354)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\Work\\pps\\daily_report2\\app\\Views\\ccf\\edit.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('ccf/edit', [], true)
+ 5 APPPATH\Controllers\Ccf.php(509): view('ccf/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Ccf->edit('44')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ccf))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Work\\pps\\daily_report2\\public\\index.php')
